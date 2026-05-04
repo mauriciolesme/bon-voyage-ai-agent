@@ -1,6 +1,6 @@
 # Bon Voyage AI ✈️
 
-A conversational AI travel assistant built with Streamlit and GPT-4o-mini. Bon Voyage AI helps users plan trips by recommending destinations based on their budget, nationality, travel goals, and travel month — then generating a personalized travel brief with live data.
+A conversational AI travel assistant built with Streamlit and GPT-4o-mini. Bon Voyage AI helps users plan trips by recommending destinations based on their budget, nationality, travel goals, and travel month, then generating a personalized travel brief with live data.
 
 ## What It Does
 
