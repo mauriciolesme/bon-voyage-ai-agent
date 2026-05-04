@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.env
+# Virtual environment
+.venv/
+rag_files/
+bon_voyage_step1.py
+bon_voyage_step2.py
+build_faiss_index.py
+query_function.py
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+# PyCharm
+.idea/
