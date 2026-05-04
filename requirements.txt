@@ -6,7 +6,6 @@ langchain-community
 langchain-core
 langchain-text-splitters
 faiss-cpu
-pypdf
 pandas
 python-dotenv
 requests

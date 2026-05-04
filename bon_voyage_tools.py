@@ -3,13 +3,11 @@ import requests
 import os
 from langchain.tools import tool
 from dotenv import load_dotenv
-from serpapi import GoogleSearch
 
 load_dotenv()
 
 WEATHER_API_KEY = os.getenv("OPENWEATHERMAP_API_KEY")
 EXCHANGE_API_KEY = os.getenv("EXCHANGERATE_API_KEY")
-SERPAPI_KEY = os.getenv("SERPAPI_KEY")
 
 
 @tool
